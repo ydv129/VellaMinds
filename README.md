@@ -118,8 +118,8 @@ vital-flow-wellness/
 
 ```bash
 # Clone the repository
-git clone https://github.com/primesama05-glitch/VITAL_FLOW.git
-cd VITAL_FLOW
+git clone https://github.com/ydv129/vellaminds.git
+cd vellamind
 
 # Install dependencies
 npm install
