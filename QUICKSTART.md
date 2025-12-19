@@ -1,4 +1,4 @@
-# Quick Start Guide - Vital Flow
+# Quick Start Guide - Vella Minds
 
 ## 1️⃣ Prerequisites
 Make sure you have:
@@ -10,8 +10,8 @@ Make sure you have:
 
 ```bash
 # Clone the repository
-git clone https://github.com/primesama05-glitch/VITAL_FLOW.git
-cd VITAL_FLOW
+git clone https://github.com/ydv129/VellaMinds.git
+cd Vella Mind 
 
 # Install all dependencies
 npm install
