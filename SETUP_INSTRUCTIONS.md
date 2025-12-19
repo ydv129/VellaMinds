@@ -1,4 +1,4 @@
-# Complete Setup Instructions - Vital Flow
+# Complete Setup Instructions - Vella Minds
 
 ## 📌 Overview
 
@@ -47,7 +47,7 @@ expo --version
 
 ```bash
 # Clone repository
-git clone https://github.com/primesama05-glitch/VITAL_FLOW.git
+git clone https://github.com/ydv129/VellaMinds.git
 cd VITAL_FLOW
 
 # Install dependencies
