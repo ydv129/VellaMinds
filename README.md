@@ -1,10 +1,10 @@
-# Vital Flow - AI Mental Wellness Companion
+# VellaMind - AI Mental Wellness Companion
 
 A React Native + Expo mobile application that helps users track their mental health through daily mood journaling, AI-powered insights, and wellness recommendations.
 
 ## 🎯 Concept
 
-Vital Flow is an AI-powered mental wellness companion designed to help users:
+vella Mind is an AI-powered mental wellness companion designed to help users:
 
 - **Track Daily Mood**: Rate your emotional state and journal your thoughts
 - **Get AI Insights**: Receive personalized wellness recommendations based on your entries
